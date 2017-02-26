@@ -1,0 +1,16 @@
+[
+{
+  "modid": "loadsofanticipation",
+  "name": "Loads of Anticipation",
+  "description": "Makes the terrain loading screen more interesting.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Empiricist"],
+  "credits": "That Smiffy guy",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

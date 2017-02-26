@@ -1,0 +1,9 @@
+#Comment format, make sure no spaces by the =
+
+#Dimensions
+loadsofanticipation:dim.0.name=THE OVERWORLD
+loadsofanticipation:dim.-1.name=THE NETHER
+loadsofanticipation:dim.1.name=THE END
+
+#Messages
+loadsofanticipation:announcedim=Now entering...

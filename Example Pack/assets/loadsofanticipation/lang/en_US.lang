@@ -1,0 +1,13 @@
+#Comment format
+
+#Dimensions
+#More dimension names can be added using the same format, as long as you know their dimension ID
+#but make sure there is not a space immediately after the =
+#If no name is found in the lang file, the mod will attempt to use the name the dimension was registered with
+loadsofanticipation:dim.0.name=overworld name here
+loadsofanticipation:dim.-1.name=nether name here
+loadsofanticipation:dim.1.name=end name here
+
+
+#Messages
+loadsofanticipation:announcedim=Now entering...
